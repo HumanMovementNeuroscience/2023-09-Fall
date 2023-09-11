@@ -3,9 +3,9 @@
 Course Dates: 6 Sept 2023 - 6 Dec 2023
 
 ### Course Materials and Resources
-- [Discord Server (Invite on Canvas)](https://northeastern.instructure.com/courses/144116/modules/items/8876606)
-- [Canvas page](https://northeastern.instructure.com/courses/151504/modules/items/9463722)
-- [Course website] TBD
+- Discord Server (Invite on Canvas) - https://northeastern.instructure.com/courses/144116/modules/items/8876606
+- Canvas page - https://northeastern.instructure.com/courses/151504
+- Course website: https://humanmovementneuroscience.github.io/2023-09-Fall/
 
 
 
