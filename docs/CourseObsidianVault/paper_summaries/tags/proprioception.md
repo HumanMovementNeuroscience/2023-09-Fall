@@ -1,4 +1,0 @@
-#proprioception
-#balance
-#neuroscience
-#cerebellum

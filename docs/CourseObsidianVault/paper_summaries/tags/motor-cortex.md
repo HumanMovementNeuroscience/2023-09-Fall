@@ -1,3 +1,0 @@
-#motor-cortex
-#coordination
-#balance
