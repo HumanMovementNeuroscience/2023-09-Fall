@@ -1,10 +1,9 @@
-# Neural Control of Real-World Human Movement - 2023 Summer 1
+# Neural Control of Real-World Human Movement - 2023 Fall 
 - Instructor: Jonathan Samir Matthis
-Course Dates: 8 May 2023 - 27 June 2023
-- Format: Online Asynchronous
+Course Dates: 6 Sept 2023 - 6 Dec 2023
 
 ### Course Materials and Resources
-- [Discord Server (Invite behind this link)](https://northeastern.instructure.com/courses/144116/assignments/syllabus)
+- [Discord Server (Invite on Canvas)](https://northeastern.instructure.com/courses/144116/modules/items/8876606)
 - [Canvas page](https://northeastern.instructure.com/courses/144116)
 - [Course website](https://neuralcontrolhumanmovement-2023-summer1.github.io/main_course_repo/)
 
