@@ -10,6 +10,7 @@ packages = [{include = "main_course_repo"}]
 python = "^3.10"
 mkdocs = "^1.4.3"
 mkdocs-material = "^9.1.18"
+mkdocs-mermaid2-plugin = "^1.1.0"
 
 
 [build-system]
