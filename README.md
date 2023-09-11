@@ -11,9 +11,8 @@ Course Dates: 6 Sept 2023 - 6 Dec 2023
 
 ## Schedule Overview
 
-|Date| Week | Phase | Plans         |
+|Date (Tues)| Week | Phase | Plans         |
 |----|-------|-----|----------|
-|   5  Sept 2023 | Week 0 | N/A      |  NO CLASS  | 
 |  12  Sept 2023 | Week 1 | Prepare  |  Introduction |
 |  19  Sept 2023 | Week 2 | Prepare  |  Training & Literature Review |
 |  26  Sept 2023 | Week 3 | Planning | Research Planning |
