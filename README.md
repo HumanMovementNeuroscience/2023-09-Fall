@@ -1,4 +1,4 @@
-# Neural Control of Real-World Human Movemen
+# Neural Control of Real-World Human Movement
 ## 2023 Fall
 
 ### Instructor: Jonathan Samir Matthis
