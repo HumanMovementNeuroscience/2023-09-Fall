@@ -12,21 +12,21 @@
 
 ## Schedule Overview
 
-|Date (Tues)| Week | Phase | Plans         |
-|----|-------|-----|----------|
-|  12  Sept 2023 | Week 1 | Prepare  |  Introduction |
-|  19  Sept 2023 | Week 2 | Prepare  |  Training & Literature Review |
-|  26  Sept 2023 | Week 3 | Planning | Research Planning |
-|   3  Oct 2023  | Week 4 | Planning | Research / Data Collection / Analysis |
-|  10  Oct 2023  | Week 5 | Project  | Research / Data Collection / Analysis |
-|  11  Oct 2023  | Week 6 | Project  | Research / Data Collection / Analysis |
-|  24  Oct 2023  | Week 7 | Project  | Research / Data Collection / Analysis |
-|  31  Oct 2023  | Week 8 | Project  | Research / Data Collection / Analysis |
-|   7  Nov 2023  | Week 9 | Project  | Research / Data Collection / Analysis |
-|  14  Nov 2023  | Week 10| Project  | Research / Data Collection / Analysis |
-|  21  Nov 2023  | Week 11| Project  | Research / Data Collection / Analysis |
-|  28  Nov 2023  | Week 12| Project  | Research / Data Collection / Analysis |
-|   5  Dec 2023  | Week 13| Present  | Presentating our work to each other |
+|Date (Tues)| Week | Phase | Plans         | What actually happened
+|----|-------|-----|----------|---------------| 
+|  12  Sept 2023 | Week 1 | Prepare  |  Introduction | intro?|
+|  19  Sept 2023 | Week 2 | Prepare  |  Training & Literature Review | ??|
+|  26  Sept 2023 | Week 3 | Planning | Research Planning | ??|
+|   3  Oct 2023  | Week 4 | Planning | Research / Data Collection / Analysis |??|
+|  10  Oct 2023  | Week 5 | Project  | Research / Data Collection / Analysis |??|
+|  11  Oct 2023  | Week 6 | Project  | Research / Data Collection / Analysis |??|
+|  24  Oct 2023  | Week 7 | Project  | Research / Data Collection / Analysis | Vision/eye movements/Eye Tracker | 
+|  31  Oct 2023  | Week 8 | Project  | Research / Data Collection / Analysis | - |
+|   7  Nov 2023  | Week 9 | Project  | Research / Data Collection / Analysis | - |
+|  14  Nov 2023  | Week 10| Project  | Research / Data Collection / Analysis | - |
+|  21  Nov 2023  | Week 11| Project  | Research / Data Collection / Analysis | - |
+|  28  Nov 2023  | Week 12| Project  | Research / Data Collection / Analysis | - |
+|   5  Dec 2023  | Week 13| Present  | Presentating our work to each other | - |
 
 ```mermaid
 gantt
