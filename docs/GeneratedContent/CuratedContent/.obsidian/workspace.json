@@ -1,0 +1,159 @@
+{
+  "main": {
+    "id": "3fd1bf9b24097468",
+    "type": "split",
+    "children": [
+      {
+        "id": "21a60a872a7b3e84",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "67e2b439ad133512",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "279e2f8f73831adc",
+    "type": "split",
+    "children": [
+      {
+        "id": "c693790f0835dc6a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d7567ced6fa9a3bc",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "fda8ea07920d29f2",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "9e27f831fb15bea0",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "ecf679cc71d589f4",
+    "type": "split",
+    "children": [
+      {
+        "id": "28ce490fec386b35",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "95dcdf957b6cebdd",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "3f70904a71a9d9d6",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "0ec9f674d734f34b",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "ce0f397377ce2e7f",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "67e2b439ad133512",
+  "lastOpenFiles": [
+    "high heels.md",
+    "neuroscience_1158765846697611264__from_summaries_and_tags.md",
+    "2023-10-17-in-class_1163865590688124928__from_summaries_and_tags.md",
+    "balance_1158766069494845493__from_summaries_and_tags.md",
+    "biomechanics_1158765874828820480__from_summaries_and_tags.md",
+    "blender_1158765786161229856__from_summaries_and_tags.md",
+    "clinical_1158765890171572294__from_summaries_and_tags.md",
+    "eye-tracker_1158766165426962544__from_summaries_and_tags.md",
+    "general_1150790722308546660__from_summaries_and_tags.md",
+    "introduction-threads_1151164504483315722__from_summaries_and_tags.md",
+    "jumping_1158766012116783164__from_summaries_and_tags.md",
+    "locomotion_1158766087450677389__from_summaries_and_tags.md",
+    "papers_1163874433308557514__from_summaries_and_tags.md",
+    "python-code_1158765682243162204__from_summaries_and_tags.md",
+    "video-chatter_1155567944793862155__from_summaries_and_tags.md"
+  ]
+}
