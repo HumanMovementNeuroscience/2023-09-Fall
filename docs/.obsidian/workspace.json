@@ -11,12 +11,8 @@
             "id": "bc3d6eb13aaeb13c",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Content/extraction_by_channel/blender_1158765786161229856/from_summaries_and_tags/blender_1158765786161229856__from_summaries_and_tags.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Content/extraction_by_channel/blender_1158765786161229856/from_summaries_and_tags/blender_1158765786161229856__from_summaries_and_tags.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Content/extraction_by_channel/blender_1158765786161229856/from_summaries_and_tags/blender_1158765786161229856__from_summaries_and_tags.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Content/extraction_by_channel/blender_1158765786161229856/from_summaries_and_tags/blender_1158765786161229856__from_summaries_and_tags.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -143,28 +135,47 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "open-vscode:VSCode": false
     }
   },
   "active": "bc3d6eb13aaeb13c",
   "lastOpenFiles": [
-    "Blender.md",
-    "Content/extraction_by_channel/blender_1158765786161229856/from_summaries_and_tags/blender_1158765786161229856__from_summaries_and_tags.md",
-    "Content/extraction_by_channel/blender_1158765786161229856/from_summaries/blender_1158765786161229856__from_summaries.md",
-    "Contributing guide/python_style_guide.md",
-    "Center of Mass Trajectory.md",
-    "Content/2023-11-02.md",
-    "Content/Spinal Cord.md",
-    "Content/Na+ current inactivation kinetics.md",
-    "Content/extraction_by_channel/eye-tracker_1158766165426962544/from_summaries_and_tags/eye-tracker_1158766165426962544__from_summaries_and_tags.md",
-    "Content/extraction_by_channel/eye-tracker_1158766165426962544/from_summaries/eye-tracker_1158766165426962544__from_summaries.md",
-    "Content/extraction_by_channel/clinical_1158765890171572294/from_summaries_and_tags/clinical_1158765890171572294__from_summaries_and_tags.md",
-    "Content/extraction_by_category/TopLevel_0/from_summaries/TopLevel_0__from_summaries.md",
-    "mindfulness practices.md",
-    "Content/extraction_by_channel/jumping_1158766012116783164/from_summaries_and_tags/jumping_1158766012116783164__from_summaries_and_tags.md",
-    "Content/extraction_by_channel/jumping_1158766012116783164/from_topics/jumping_1158766012116783164__from_topics.md",
-    "Content/extraction_by_channel/moderator-only_1150791315911622657/from_summaries_and_tags/moderator-only_1150791315911622657__from_summaries_and_tags.md",
-    "Content/extraction_by_channel/moderator-only_1150791315911622657/from_summaries/moderator-only_1150791315911622657__from_summaries.md",
-    "Content/extraction_by_channel/jumping_1158766012116783164/from_summaries/jumping_1158766012116783164__from_summaries.md"
+    "GeneratedContent/RawExtractedText/extraction_by_channel/video-chatter_1155567944793862155/from_summaries_and_tags/video-chatter_1155567944793862155__from_summaries_and_tags.md",
+    "GeneratedContent/RawExtractedText/extraction_by_channel/video-chatter_1155567944793862155/from_topics/video-chatter_1155567944793862155__from_topics.md",
+    "GeneratedContent/RawExtractedText/extraction_by_channel/papers_1163874433308557514/from_summaries_and_tags/papers_1163874433308557514__from_summaries_and_tags.md",
+    "GeneratedContent/RawExtractedText/extraction_by_channel/python-code_1158765682243162204/from_summaries/python-code_1158765682243162204__from_summaries.md",
+    "GeneratedContent/RawExtractedText/extraction_by_channel/video-chatter_1155567944793862155/from_summaries/video-chatter_1155567944793862155__from_summaries.md",
+    "GeneratedContent/RawExtractedText/extraction_by_channel/papers_1163874433308557514/from_topics/papers_1163874433308557514__from_topics.md",
+    "GeneratedContent/RawExtractedText/extraction_by_channel/python-code_1158765682243162204/from_topics/python-code_1158765682243162204__from_topics.md",
+    "GeneratedContent/RawExtractedText/extraction_by_channel/papers_1163874433308557514/from_summaries/papers_1163874433308557514__from_summaries.md",
+    "GeneratedContent/RawExtractedText/extraction_by_channel/python-code_1158765682243162204/from_summaries_and_tags/python-code_1158765682243162204__from_summaries_and_tags.md",
+    "GeneratedContent/RawExtractedText/extraction_by_channel/neuroscience_1158765846697611264/from_topics/neuroscience_1158765846697611264__from_topics.md",
+    "GeneratedContent/RawExtractedText/extraction_by_channel/markdown-text_1158765764254375988/from_topics/markdown-text_1158765764254375988__from_topics.md",
+    "GeneratedContent/RawExtractedText/extraction_by_channel/neuroscience_1158765846697611264/from_summaries_and_tags/neuroscience_1158765846697611264__from_summaries_and_tags.md",
+    "GeneratedContent/RawExtractedText/extraction_by_channel/neuroscience_1158765846697611264/from_summaries/neuroscience_1158765846697611264__from_summaries.md",
+    "GeneratedContent/RawExtractedText/extraction_by_channel/markdown-text_1158765764254375988/from_summaries/markdown-text_1158765764254375988__from_summaries.md",
+    "GeneratedContent/RawExtractedText/extraction_by_channel/markdown-text_1158765764254375988/from_summaries_and_tags/markdown-text_1158765764254375988__from_summaries_and_tags.md",
+    "GeneratedContent/RawExtractedText/extraction_by_channel/moderator-only_1150791315911622657/from_summaries_and_tags/moderator-only_1150791315911622657__from_summaries_and_tags.md",
+    "GeneratedContent/RawExtractedText/extraction_by_channel/moderator-only_1150791315911622657/from_topics/moderator-only_1150791315911622657__from_topics.md",
+    "GeneratedContent/RawExtractedText/extraction_by_channel/locomotion_1158766087450677389/from_topics/locomotion_1158766087450677389__from_topics.md",
+    "GeneratedContent/RawExtractedText/extraction_by_channel/moderator-only_1150791315911622657/from_summaries/moderator-only_1150791315911622657__from_summaries.md",
+    "GeneratedContent/RawExtractedText/extraction_by_channel/locomotion_1158766087450677389/from_summaries/locomotion_1158766087450677389__from_summaries.md",
+    "GeneratedContent/RawExtractedText/extraction_by_channel/introduction-threads_1151164504483315722/from_summaries_and_tags/introduction-threads_1151164504483315722__from_summaries_and_tags.md",
+    "GeneratedContent/RawExtractedText/extraction_by_channel/locomotion_1158766087450677389/from_summaries_and_tags/locomotion_1158766087450677389__from_summaries_and_tags.md",
+    "GeneratedContent/RawExtractedText/extraction_by_channel/introduction-threads_1151164504483315722/from_topics/introduction-threads_1151164504483315722__from_topics.md",
+    "GeneratedContent/RawExtractedText/extraction_by_channel/jumping_1158766012116783164/from_topics/jumping_1158766012116783164__from_topics.md",
+    "GeneratedContent/RawExtractedText/extraction_by_channel/general_1150790722308546660/from_summaries/general_1150790722308546660__from_summaries.md",
+    "GeneratedContent/RawExtractedText/extraction_by_channel/introduction-threads_1151164504483315722/from_summaries/introduction-threads_1151164504483315722__from_summaries.md",
+    "GeneratedContent/RawExtractedText/extraction_by_channel/video-chatter_1155567944793862155/from_summaries_and_tags",
+    "GeneratedContent/RawExtractedText/extraction_by_channel/video-chatter_1155567944793862155/from_topics",
+    "GeneratedContent/RawExtractedText/extraction_by_channel/video-chatter_1155567944793862155/from_summaries",
+    "GeneratedContent/RawExtractedText/extraction_by_channel/papers_1163874433308557514/from_summaries_and_tags",
+    "GeneratedContent/RawExtractedText/extraction_by_channel/papers_1163874433308557514/from_topics",
+    "GeneratedContent/RawExtractedText/extraction_by_channel/papers_1163874433308557514/from_summaries",
+    "GeneratedContent/RawExtractedText/extraction_by_channel/python-code_1158765682243162204/from_summaries_and_tags",
+    "GeneratedContent/RawExtractedText/extraction_by_channel/python-code_1158765682243162204/from_topics",
+    "GeneratedContent/RawExtractedText/extraction_by_channel/python-code_1158765682243162204/from_summaries",
+    "GeneratedContent/RawExtractedText/extraction_by_channel/neuroscience_1158765846697611264/from_topics"
   ]
 }
