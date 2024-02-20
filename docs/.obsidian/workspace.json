@@ -1,0 +1,170 @@
+{
+  "main": {
+    "id": "c163299029f826c7",
+    "type": "split",
+    "children": [
+      {
+        "id": "7032e82365c41254",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bc3d6eb13aaeb13c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Content/extraction_by_channel/blender_1158765786161229856/from_summaries_and_tags/blender_1158765786161229856__from_summaries_and_tags.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "92a219e49bd12849",
+    "type": "split",
+    "children": [
+      {
+        "id": "4ee7c3726af28d98",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5ee2786835ed91e1",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "91f8b27e04ee1962",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "12a5c79004b28e92",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 528.5
+  },
+  "right": {
+    "id": "5295b788d9c6f224",
+    "type": "split",
+    "children": [
+      {
+        "id": "0e480853129797b6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d5663d4272ab022b",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Content/extraction_by_channel/blender_1158765786161229856/from_summaries_and_tags/blender_1158765786161229856__from_summaries_and_tags.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "bb0400ce13450b96",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Content/extraction_by_channel/blender_1158765786161229856/from_summaries_and_tags/blender_1158765786161229856__from_summaries_and_tags.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "1b131fa02991b7ca",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "fb275969d5bef717",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Content/extraction_by_channel/blender_1158765786161229856/from_summaries_and_tags/blender_1158765786161229856__from_summaries_and_tags.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "bc3d6eb13aaeb13c",
+  "lastOpenFiles": [
+    "Blender.md",
+    "Content/extraction_by_channel/blender_1158765786161229856/from_summaries_and_tags/blender_1158765786161229856__from_summaries_and_tags.md",
+    "Content/extraction_by_channel/blender_1158765786161229856/from_summaries/blender_1158765786161229856__from_summaries.md",
+    "Contributing guide/python_style_guide.md",
+    "Center of Mass Trajectory.md",
+    "Content/2023-11-02.md",
+    "Content/Spinal Cord.md",
+    "Content/Na+ current inactivation kinetics.md",
+    "Content/extraction_by_channel/eye-tracker_1158766165426962544/from_summaries_and_tags/eye-tracker_1158766165426962544__from_summaries_and_tags.md",
+    "Content/extraction_by_channel/eye-tracker_1158766165426962544/from_summaries/eye-tracker_1158766165426962544__from_summaries.md",
+    "Content/extraction_by_channel/clinical_1158765890171572294/from_summaries_and_tags/clinical_1158765890171572294__from_summaries_and_tags.md",
+    "Content/extraction_by_category/TopLevel_0/from_summaries/TopLevel_0__from_summaries.md",
+    "mindfulness practices.md",
+    "Content/extraction_by_channel/jumping_1158766012116783164/from_summaries_and_tags/jumping_1158766012116783164__from_summaries_and_tags.md",
+    "Content/extraction_by_channel/jumping_1158766012116783164/from_topics/jumping_1158766012116783164__from_topics.md",
+    "Content/extraction_by_channel/moderator-only_1150791315911622657/from_summaries_and_tags/moderator-only_1150791315911622657__from_summaries_and_tags.md",
+    "Content/extraction_by_channel/moderator-only_1150791315911622657/from_summaries/moderator-only_1150791315911622657__from_summaries.md",
+    "Content/extraction_by_channel/jumping_1158766012116783164/from_summaries/jumping_1158766012116783164__from_summaries.md"
+  ]
+}

@@ -91,7 +91,7 @@
 
 INPUT_TEXT:
 
-```
+
 
 In this conversation, the human asks the AI several questions about Blender, a 3D modeling and animation software. The human asks about the uses of Blender, whether it runs well on Mac, if coding knowledge is required, and how to get started with Blender. The AI provides detailed answers and instructions for each question, including information about system requirements, basic instructions for starting out, editing shapes, using nodes, changing textures, deleting annotations, and creating objects with Python code. The AI also explains the purpose and usage of the bevel tool and provides troubleshooting advice for the sculpt tool.
 [[3D modeling]], [[animation]], [[rendering]], [[video editing]], [[game creation]], [[simulating real-world physics]], [[Blender system requirements]], [[tech knowledge]], [[coding knowledge]], [[starting out in Blender]], [[editing shapes]], [[nodes in Blender]], [[changing textures]], [[deleting annotations]], [[creating objects with Python code]], [[Bevel Tool in Blender]], [[using the Bevel Tool]], [[sculpting in Blender]]
@@ -123,8 +123,6 @@ The conversation is about creating a motion path in Blender. The human initially
 ==========
 
 
-
-```
 
 ___
 

@@ -78,7 +78,6 @@
 
 INPUT_TEXT:
 
-```
 
 The conversation discusses how the center of mass trajectory during a jump can reveal information about a person's physical abilities and strategies. It mentions that the height of the trajectory can indicate power and strength, while the smoothness of the path can indicate balance and coordination. Comparing the center of mass trajectory between different species can shed light on how anatomical and physiological characteristics influence movement. The conversation also mentions that greater muscle power, longer legs, and a strong core can contribute to a higher or more steady trajectory. Additionally, it discusses how the trajectories of bipedal and quadrupedal species can vary due to differences in body structures and movement strategies.
 [[center of mass trajectory]], [[jumping behavior]], [[physical abilities]], [[strategies]], [[power]], [[strength]], [[balance]], [[coordination]], [[species differences]], [[anatomical characteristics]], [[physiological characteristics]], [[muscle composition]], [[skeletal structure]], [[neurological control mechanisms]], [[higher trajectory]], [[steady trajectory]], [[muscle power]], [[lower body]], [[longer legs]], [[specialized structures]], [[strong core]], [[bipedal species]], [[quadrupedal species]], [[body structures]], [[movement strategies]], [[upward force]], [[vertical push-off]], [[distributed force application]], [[jump heights]], [[trajectory shapes]]
@@ -219,8 +218,6 @@ The conversation is about creating a motion path for the center of mass in Blend
 ==========
 
 
-
-```
 
 ___
 

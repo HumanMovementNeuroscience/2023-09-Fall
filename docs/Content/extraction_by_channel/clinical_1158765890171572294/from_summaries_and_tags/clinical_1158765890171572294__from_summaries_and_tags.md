@@ -130,7 +130,7 @@
 
 INPUT_TEXT:
 
-```
+
 
 The conversation is about a paper on sport injury prevention. The paper discusses the importance of preventing musculoskeletal injuries in sports and identifies neuromuscular training, rule modification, and equipment recommendations as key strategies. The authors report that neuromuscular training warm-up programs can reduce injury risk by 35%. They also mention that changes to contact rules in sports like ice hockey and football have led to significant injury reductions. The use of certain equipment can also prevent injuries, but their effectiveness may vary depending on the situation. The authors highlight the need for further research to implement these prevention strategies in real-world settings and explore other potential strategies. The conversation also briefly discusses the methods used in the paper, suggesting that it involved a literature review approach.
 [[injury prevention]], [[neuromuscular training]], [[rule modification]], [[equipment recommendations]], [[musculoskeletal injuries]], [[warm-up programs]], [[contact rules]], [[literature review approach]], [[inclusion criteria]], [[statistical techniques]]
@@ -287,7 +287,6 @@ This conversation discusses a study that investigated the combined effects of Tr
 
 
 
-```
 
 ___
 
